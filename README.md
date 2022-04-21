@@ -16,7 +16,7 @@ The JSON Web Key Set (JWKS) is a set of keys which contains the public keys used
 
 The JWK format allows the key to be decorated with metadata. An important piece of metadata is the key ID (“kid”), for key identification in databases and enabling key rollover. The usage parameter (“use”) indicates the key’s intended purpose — signing or encryption
 
-# JSON Web Encryption (JWE) - DOING
+# JSON Web Encryption (JWE)
 The JWE scheme encrypts the content instead of signing it. The content being encrypted here are JWT claims. JWE, thus brings Confidentiality. The JWE can be signed and enclosed in a JWS. Now, you get both encryption and signature (thus getting Confidentiality, Integrity, Authentication).
 
 JWE is used to encrypt the data as well as make it integrity-protected:
