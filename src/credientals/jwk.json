@@ -1,6 +1,1 @@
-{
-  "kty": "RSA",
-  "n": "31X-26D1cFtVFB4CCa6HjhJAZ6fCdJoIZ_I6z2HLVyavduTfKcgarhwMf-G-ANNm48A9e6ONZPOTFFUllAxuxSxYSy4RwgYOxg6m0DGjUFIEa7mvp8aom6NTqImd-gBz-fxvlvXfbUpuf5a6cW139oeKckeZd3cc0UcikHbnwbvz7c9rQUl3iVzNTU8lVGmcdqZH7EqNPyLLhwfVDuBZtMhcO5snIX2fu4PayRzwu5YK4nlckmYGYvJ9BQMdtapgchSxAqvYbBz6TDg7_mAwxVoS7obLQtsQrkX0vok6R-56-yGMQrRbvPVzZ5j6_1_qUgBv13mwsWh8JvJTFEOqnw",
-  "e": "AQAB",
-  "kid": "leducthang98"
-}
+{"kty":"RSA","n":"126H-23sewW9RUipfEaQ0LQG74QlP9XIphLf9fybFbZ78KK9IVdv074k2HvK1sQ8QpLlL5hci_nN9QeO4O_nlC_Y254GlbNwtPfjxff9DOgBWsmbO3BZHdVi-c_cj1MjjK83P8NZ7v1AnwO5gje8sdMWcrZ9ikejwVG7rn1H_dgXdpyxo0NRLMgs7NPV8ct9Byf7RPQ1y2H9JaYf_D7Y7zSqIikJMZ5Hk9f-cSFaXgP41l2ElnQL15jNC3ABsd63wkhsGjrIvWZDnDGywIVOgYzEjc9W3bTTeEr0nT62Hs-568e5S6ZdrDOvdT8q0K3jBJveO4axrMlrTiMHgVKaDw","e":"AQAB","kid":"leducthang98"}
